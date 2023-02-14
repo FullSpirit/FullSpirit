@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FullSpirit
 - 👀 I’m interested in web dev
 - 🌱 I’m currently learning full stack dev IBM 
-- 💞️ I’m looking to collaborate on project that can get me some experienc
+- 💞️ I’m looking to collaborate on project that can get me some experience
 
 <!---
 FullSpirit/FullSpirit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
